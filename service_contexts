@@ -38,6 +38,7 @@ dreams                                    u:object_r:dreams_service:s0
 drm.drmManager                            u:object_r:drmserver_service:s0
 dropbox                                   u:object_r:dropbox_service:s0
 ethernet                                  u:object_r:ethernet_service:s0
+execution_zone                            u:object_r:execution_zone_service:s0
 fingerprint                               u:object_r:fingerprint_service:s0
 android.hardware.fingerprint.IFingerprintDaemon u:object_r:fingerprintd_service:s0
 gfxinfo                                   u:object_r:gfxinfo_service:s0
